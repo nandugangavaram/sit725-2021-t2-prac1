@@ -10,4 +10,4 @@ Open the code in visual studio code and install the "live server" extension to b
 
 This is a public project that means anyone can use this project for their own testing and work.
 
-Copyright (c) 2021 nandugangavaram
+Copyright (c) 2021 Gangavaram Gouri Nandan Reddy
